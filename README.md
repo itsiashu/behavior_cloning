@@ -46,7 +46,7 @@ model.py is model code to build and train convolution neural network using keras
 
 * As per Udacity suggestion, model is tested as the one given by NVIDIA. Model architecture is explained by NVIDIA [here](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf). This model takes input image as (60x266x3) but the training images are as (160x320x3). Architecture of model is kept same but image is converted to input shape as per Nvidia input image shape.
 
-<img src="./images/NVIDIA.JPG">
+<img src="./images/NVIDIA.jpg">
 
 ### Load Data 
 
